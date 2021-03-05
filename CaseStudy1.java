@@ -3,7 +3,7 @@ import java.util.*;
 
 public class CaseStudy1
 {
-	public static void main (String[] args)
+	public static void main (String[] args) throws IOException
 	{
 		Scanner SC = new Scanner(System.in);
 			

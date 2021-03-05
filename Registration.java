@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Registration 
 {
-    public static void promptStudentData()
+    public static void promptStudentData() throws IOException
     {
         Scanner SC = new Scanner(System.in);
         
